@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>000010.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>150</width>
+    <height>100</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>laptop</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>14</xmin>
+      <ymin>5</ymin>
+      <xmax>135</xmax>
+      <ymax>95</ymax>
+    </bndbox>
+  </object>
+</annotation>
